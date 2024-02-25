@@ -5,6 +5,9 @@
     "type": "module",
     "repository": "https://github.com/novikov-artem/gorodjs",
     "bugs": "https://github.com/novikov-artem/gorodjs/issues",
+    "scripts": {
+        "start": "nodemon ./src/app/index.js"
+    },
     "author": "Novikov Artem",
     "license": "MIT",
     "devDependencies": {
