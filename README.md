@@ -1,1 +1,3 @@
-# gorodjs
+# GorodJS
+
+Framework example
