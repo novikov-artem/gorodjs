@@ -1,0 +1,13 @@
+{
+    "name": "gorodjs",
+    "version": "1.0.0",
+    "description": "Framework example",
+    "type": "module",
+    "repository": "https://github.com/novikov-artem/gorodjs",
+    "bugs": "https://github.com/novikov-artem/gorodjs/issues",
+    "author": "Novikov Artem",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
